@@ -47,9 +47,23 @@ O notebook explora os dados para extrair os seguintes insights:
 
 Para complementar a análise estática do notebook, foi desenvolvido um dashboard interativo no Power BI. Ele permite filtrar os dados dinamicamente e explorar os insights de forma mais visual.
 
-*(Sugestão: Tire um print do seu dashboard do Power BI e adicione a imagem aqui para que as pessoas possam vê-lo diretamente no README!)*
+`[Dashboard Power BI]`
 
-`![Dashboard Power BI](URL_DA_IMAGEM_DO_SEU_DASHBOARD.png)`
+`[1. OVERALL - ANALYSIS]`
+<img width="1364" height="779" alt="image" src="https://github.com/user-attachments/assets/21f09fc5-e683-4712-ba2e-1be59bfe5666" />
+
+
+`[2. PAYMENTS - ANALYSIS]`
+<img width="1319" height="793" alt="image" src="https://github.com/user-attachments/assets/24630e9e-a626-458a-b985-95f74641aba3" />
+
+
+`[3. CANCELLATIONS - ANALYSIS]`
+<img width="1392" height="791" alt="image" src="https://github.com/user-attachments/assets/fbd44e23-c664-4cf5-858f-3c910a31ea23" />
+
+
+`[4. ASSESSMENT - ANALYSIS]`
+<img width="1341" height="797" alt="image" src="https://github.com/user-attachments/assets/8a134f80-6a14-468e-95a6-d8d5ef815e98" />
+
 
 ## 🚀 Como Executar o Projeto
 
