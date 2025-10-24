@@ -1,3 +1,6 @@
+<img width="1016" height="702" alt="image" src="https://github.com/user-attachments/assets/d5440209-32fc-4647-bf31-9a271f813705" />
+
+
 # 🚕 Análise de Corridas da Uber
 
 Este repositório apresenta uma análise exploratória de dados (EDA) sobre um dataset de corridas da Uber. O objetivo do projeto é investigar padrões e tendências no comportamento das corridas, respondendo a perguntas como:
